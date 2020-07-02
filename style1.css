@@ -1,0 +1,51 @@
+.nav{
+
+background-color: yellow;
+
+}
+
+.alt{
+
+background-size: cover;
+
+}
+.fon{
+    background-color: rgba(243, 204, 77, 0.801);
+    
+}
+.fon p{
+    border-bottom: 1px solid rgb(37, 37, 37) ;
+}
+.oblozka{
+    background-image: url(big-photo.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
+.photo{
+    margin-top: 2rem}
+.header{
+    padding-top: 2rem;
+    padding-right: 1rem;
+    text-align: right;
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+}
+.footer{
+    background-color: rgb(97, 97, 97);
+    padding-top: 1rem;
+    color: white;
+    margin-top: 1rem;
+}
+
+.cent{
+
+    padding-top: 3rem ;
+    text-align: center;
+    
+    }
+    .bord{
+
+border: 1px solid black;
+
+    }
